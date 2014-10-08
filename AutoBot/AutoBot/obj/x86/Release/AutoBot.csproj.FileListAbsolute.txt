@@ -1,0 +1,23 @@
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\AutoBot\AutoBot\bin\Release\AutoBot.exe
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\AutoBot\AutoBot\bin\Release\AutoBot.pdb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\AutoBot\AutoBot\obj\x86\Release\AutoBot.exe
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\AutoBot\AutoBot\obj\x86\Release\AutoBot.pdb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\AutoBot\AutoBot\obj\x86\Release\AutoBot.csprojResolveAssemblyReference.cache
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\AutoBot\AutoBot\bin\Release\memory_control.dll
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\AutoBot\AutoBot\bin\Release\ProcessMemoryReaderLib.dll
+C:\Users\jake.CUTTING\Desktop\GitHub\EQTrainer\AutoBot\AutoBot\obj\x86\Release\AutoBot.exe
+C:\Users\jake.CUTTING\Desktop\GitHub\EQTrainer\AutoBot\AutoBot\obj\x86\Release\AutoBot.pdb
+C:\Users\jake.CUTTING\Desktop\GitHub\EQTrainer\AutoBot\AutoBot\bin\Release\AutoBot.exe
+C:\Users\jake.CUTTING\Desktop\GitHub\EQTrainer\AutoBot\AutoBot\bin\Release\AutoBot.pdb
+C:\Users\jake.CUTTING\Desktop\GitHub\EQTrainer\AutoBot\AutoBot\bin\Release\ProcessMemoryReaderLib.dll
+C:\Users\jake.CUTTING\Desktop\GitHub\EQTrainer\AutoBot\AutoBot\obj\x86\Release\AutoBot.csprojResolveAssemblyReference.cache
+C:\Users\Jake\Documents\GitHub\EQTrainer\AutoBot\AutoBot\obj\x86\Release\AutoBot.exe
+C:\Users\Jake\Documents\GitHub\EQTrainer\AutoBot\AutoBot\obj\x86\Release\AutoBot.pdb
+C:\Users\Jake\Documents\GitHub\EQTrainer\AutoBot\AutoBot\bin\Release\AutoBot.exe
+C:\Users\Jake\Documents\GitHub\EQTrainer\AutoBot\AutoBot\bin\Release\AutoBot.pdb
+C:\Users\Jake\Documents\GitHub\EQTrainer\AutoBot\AutoBot\bin\Release\ProcessMemoryReaderLib.dll
+C:\Users\Jake\Documents\GitHub\EQTrainer\AutoBot\AutoBot\obj\x86\Release\AutoBot.csprojResolveAssemblyReference.cache
+C:\Users\Jake\Documents\GitHub\EQTrainer\EQTrainer\bin\Release\AutoBot.exe
+C:\Users\Jake\Documents\GitHub\EQTrainer\EQTrainer\bin\Release\AutoBot.pdb
+C:\Users\jake.CUTTING\Desktop\GitHub\EQTrainer\EQTrainer\bin\Release\AutoBot.exe
+C:\Users\jake.CUTTING\Desktop\GitHub\EQTrainer\EQTrainer\bin\Release\AutoBot.pdb

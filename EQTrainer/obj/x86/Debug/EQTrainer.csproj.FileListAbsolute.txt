@@ -1,0 +1,81 @@
+C:\Users\jakes\AppData\Local\Temporary Projects\EQTrainer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jakes\AppData\Local\Temporary Projects\EQTrainer\obj\x86\Debug\EQTrainer.TrainerForm.resources
+C:\Users\jakes\AppData\Local\Temporary Projects\EQTrainer\obj\x86\Debug\EQTrainer.Properties.Resources.resources
+C:\Users\jakes\AppData\Local\Temporary Projects\EQTrainer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jakes\AppData\Local\Temporary Projects\EQTrainer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jakes\AppData\Local\Temporary Projects\EQTrainer\bin\Debug\EQTrainer.exe
+C:\Users\jakes\AppData\Local\Temporary Projects\EQTrainer\bin\Debug\EQTrainer.pdb
+C:\Users\jakes\AppData\Local\Temporary Projects\EQTrainer\obj\x86\Debug\EQTrainer.exe
+C:\Users\jakes\AppData\Local\Temporary Projects\EQTrainer\obj\x86\Debug\EQTrainer.pdb
+C:\Users\jakes\documents\visual studio 2010\Projects\EQTrainer\EQTrainer\obj\x86\Debug\EQTrainer.exe
+C:\Users\jakes\documents\visual studio 2010\Projects\EQTrainer\EQTrainer\obj\x86\Debug\EQTrainer.pdb
+C:\Users\jakes\documents\visual studio 2010\Projects\EQTrainer\EQTrainer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jakes\documents\visual studio 2010\Projects\EQTrainer\EQTrainer\obj\x86\Debug\EQTrainer.Properties.Resources.resources
+C:\Users\jakes\documents\visual studio 2010\Projects\EQTrainer\EQTrainer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jakes\documents\visual studio 2010\Projects\EQTrainer\EQTrainer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jakes\documents\visual studio 2010\Projects\EQTrainer\EQTrainer\bin\Debug\EQTrainer.exe
+C:\Users\jakes\documents\visual studio 2010\Projects\EQTrainer\EQTrainer\bin\Debug\EQTrainer.pdb
+C:\Users\jakes\documents\visual studio 2010\Projects\EQTrainer\EQTrainer\obj\x86\Debug\EQTrainer.TrainerForm.resources
+C:\Users\jakes\documents\visual studio 2010\Projects\EQTrainer\EQTrainer\obj\x86\Debug\EQTrainer.MapForm.resources
+C:\Users\jake.CUTTING\Desktop\EQTrainer\EQTrainer\obj\x86\Debug\EQTrainer.MapForm.resources
+C:\Users\jake.CUTTING\Desktop\EQTrainer\EQTrainer\obj\x86\Debug\EQTrainer.TrainerForm.resources
+C:\Users\jake.CUTTING\Desktop\EQTrainer\EQTrainer\obj\x86\Debug\EQTrainer.Properties.Resources.resources
+C:\Users\jake.CUTTING\Desktop\EQTrainer\EQTrainer\obj\x86\Debug\EQTrainer.csproj.GenerateResource.Cache
+C:\Users\jake.CUTTING\Desktop\EQTrainer\EQTrainer\obj\x86\Debug\EQTrainer.exe
+C:\Users\jake.CUTTING\Desktop\EQTrainer\EQTrainer\obj\x86\Debug\EQTrainer.pdb
+C:\Users\jake.CUTTING\Desktop\EQTrainer\EQTrainer\bin\Debug\EQTrainer.exe
+C:\Users\jake.CUTTING\Desktop\EQTrainer\EQTrainer\bin\Debug\EQTrainer.pdb
+C:\Users\jake.CUTTING\Desktop\EQTrainer\EQTrainer\bin\Debug\memory_control.dll
+C:\Users\jake.CUTTING\Desktop\EQTrainer\EQTrainer\obj\x86\Debug\EQTrainer.csprojResolveAssemblyReference.cache
+C:\Users\Jacob\Desktop\EQTrainer\EQTrainer\bin\Debug\EQTrainer.exe
+C:\Users\Jacob\Desktop\EQTrainer\EQTrainer\bin\Debug\EQTrainer.pdb
+C:\Users\Jacob\Desktop\EQTrainer\EQTrainer\bin\Debug\memory_control.dll
+C:\Users\Jacob\Desktop\EQTrainer\EQTrainer\bin\Debug\ProcessMemoryReaderLib.dll
+C:\Users\Jacob\Desktop\EQTrainer\EQTrainer\obj\x86\Debug\EQTrainer.csprojResolveAssemblyReference.cache
+C:\Users\Jacob\Desktop\EQTrainer\EQTrainer\obj\x86\Debug\EQTrainer.MapForm.resources
+C:\Users\Jacob\Desktop\EQTrainer\EQTrainer\obj\x86\Debug\EQTrainer.TrainerForm.resources
+C:\Users\Jacob\Desktop\EQTrainer\EQTrainer\obj\x86\Debug\EQTrainer.Properties.Resources.resources
+C:\Users\Jacob\Desktop\EQTrainer\EQTrainer\obj\x86\Debug\EQTrainer.csproj.GenerateResource.Cache
+C:\Users\Jacob\Desktop\EQTrainer\EQTrainer\obj\x86\Debug\EQTrainer.exe
+C:\Users\Jacob\Desktop\EQTrainer\EQTrainer\obj\x86\Debug\EQTrainer.pdb
+C:\Users\jake.CUTTING\Desktop\EQTrainer_src\EQTrainer\bin\Debug\EQTrainer.exe
+C:\Users\jake.CUTTING\Desktop\EQTrainer_src\EQTrainer\bin\Debug\EQTrainer.pdb
+C:\Users\jake.CUTTING\Desktop\EQTrainer_src\EQTrainer\bin\Debug\memory_control.dll
+C:\Users\jake.CUTTING\Desktop\EQTrainer_src\EQTrainer\bin\Debug\ProcessMemoryReaderLib.dll
+C:\Users\jake.CUTTING\Desktop\EQTrainer_src\EQTrainer\obj\x86\Debug\EQTrainer.csprojResolveAssemblyReference.cache
+C:\Users\jake.CUTTING\Desktop\EQTrainer_src\EQTrainer\obj\x86\Debug\EQTrainer.MapForm.resources
+C:\Users\jake.CUTTING\Desktop\EQTrainer_src\EQTrainer\obj\x86\Debug\EQTrainer.TrainerForm.resources
+C:\Users\jake.CUTTING\Desktop\EQTrainer_src\EQTrainer\obj\x86\Debug\EQTrainer.Properties.Resources.resources
+C:\Users\jake.CUTTING\Desktop\EQTrainer_src\EQTrainer\obj\x86\Debug\EQTrainer.csproj.GenerateResource.Cache
+C:\Users\jake.CUTTING\Desktop\EQTrainer_src\EQTrainer\obj\x86\Debug\EQTrainer.exe
+C:\Users\jake.CUTTING\Desktop\EQTrainer_src\EQTrainer\obj\x86\Debug\EQTrainer.pdb
+C:\Users\Kevin\Documents\GitHub\EQTrainer\EQTrainer\obj\x86\Debug\EQTrainer.exe
+C:\Users\Kevin\Documents\GitHub\EQTrainer\EQTrainer\obj\x86\Debug\EQTrainer.pdb
+C:\Users\Kevin\Documents\GitHub\EQTrainer\EQTrainer\bin\Debug\EQTrainer.exe
+C:\Users\Kevin\Documents\GitHub\EQTrainer\EQTrainer\bin\Debug\EQTrainer.pdb
+C:\Users\Kevin\Documents\GitHub\EQTrainer\EQTrainer\bin\Debug\memory_control.dll
+C:\Users\Kevin\Documents\GitHub\EQTrainer\EQTrainer\bin\Debug\ProcessMemoryReaderLib.dll
+C:\Users\Kevin\Documents\GitHub\EQTrainer\EQTrainer\obj\x86\Debug\EQTrainer.MapForm.resources
+C:\Users\Kevin\Documents\GitHub\EQTrainer\EQTrainer\obj\x86\Debug\EQTrainer.TrainerForm.resources
+C:\Users\Kevin\Documents\GitHub\EQTrainer\EQTrainer\obj\x86\Debug\EQTrainer.Properties.Resources.resources
+C:\Users\Kevin\Documents\GitHub\EQTrainer\EQTrainer\obj\x86\Debug\EQTrainer.csproj.GenerateResource.Cache
+C:\Users\Jake\Documents\GitHub\EQTrainer\EQTrainer\bin\Debug\EQTrainer.exe
+C:\Users\Jake\Documents\GitHub\EQTrainer\EQTrainer\bin\Debug\EQTrainer.pdb
+C:\Users\Jake\Documents\GitHub\EQTrainer\EQTrainer\bin\Debug\memory_control.dll
+C:\Users\Jake\Documents\GitHub\EQTrainer\EQTrainer\bin\Debug\ProcessMemoryReaderLib.dll
+C:\Users\Jake\Documents\GitHub\EQTrainer\EQTrainer\obj\x86\Debug\EQTrainer.MapForm.resources
+C:\Users\Jake\Documents\GitHub\EQTrainer\EQTrainer\obj\x86\Debug\EQTrainer.TrainerForm.resources
+C:\Users\Jake\Documents\GitHub\EQTrainer\EQTrainer\obj\x86\Debug\EQTrainer.Properties.Resources.resources
+C:\Users\Jake\Documents\GitHub\EQTrainer\EQTrainer\obj\x86\Debug\EQTrainer.csproj.GenerateResource.Cache
+C:\Users\Jake\Documents\GitHub\EQTrainer\EQTrainer\obj\x86\Debug\EQTrainer.exe
+C:\Users\Jake\Documents\GitHub\EQTrainer\EQTrainer\obj\x86\Debug\EQTrainer.pdb
+C:\Users\Jake\Documents\GitHub\EQTrainer\EQTrainer\obj\x86\Debug\EQTrainer.csprojResolveAssemblyReference.cache
+C:\Users\jake.CUTTING\Desktop\GitHub\EQTrainer\EQTrainer\bin\Debug\EQTrainer.exe
+C:\Users\jake.CUTTING\Desktop\GitHub\EQTrainer\EQTrainer\bin\Debug\EQTrainer.pdb
+C:\Users\jake.CUTTING\Desktop\GitHub\EQTrainer\EQTrainer\obj\x86\Debug\EQTrainer.csprojResolveAssemblyReference.cache
+C:\Users\jake.CUTTING\Desktop\GitHub\EQTrainer\EQTrainer\obj\x86\Debug\EQTrainer.MapForm.resources
+C:\Users\jake.CUTTING\Desktop\GitHub\EQTrainer\EQTrainer\obj\x86\Debug\EQTrainer.TrainerForm.resources
+C:\Users\jake.CUTTING\Desktop\GitHub\EQTrainer\EQTrainer\obj\x86\Debug\EQTrainer.Properties.Resources.resources
+C:\Users\jake.CUTTING\Desktop\GitHub\EQTrainer\EQTrainer\obj\x86\Debug\EQTrainer.csproj.GenerateResource.Cache
+C:\Users\jake.CUTTING\Desktop\GitHub\EQTrainer\EQTrainer\obj\x86\Debug\EQTrainer.exe
+C:\Users\jake.CUTTING\Desktop\GitHub\EQTrainer\EQTrainer\obj\x86\Debug\EQTrainer.pdb

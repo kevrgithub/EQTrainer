@@ -1,0 +1,14 @@
+Version 5.3
+----------------
+Changed spawnlist textbox hit enter to search
+Changed spawnlist no longer case sensative
+Changed follow target to include heading and distance
+Changed timers to background workers to fix window lag
+Added multiple eqgame process selection
+Added character name to easily find eqgame windows
+Added autobot automation program
+Added more hacking scripts
+Added target information heading, x, y, z and health
+Added labels to teleport coordinates
+Removed memory dependant library files
+Fixed several bugs

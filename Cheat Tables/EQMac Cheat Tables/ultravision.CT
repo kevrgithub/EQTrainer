@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="16">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>41</ID>
+      <Description>"Ultravision function"</Description>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>004C0D57</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>20</ID>
+      <Description>"Ultravision trigger"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>eqgame.exe+3F94E8</Address>
+      <Offsets>
+        <Offset>C8A</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>30</ID>
+      <Description>"No description"</Description>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>066E5C92</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>31</ID>
+      <Description>"No description"</Description>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>066E5285</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>32</ID>
+      <Description>"No description"</Description>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>066E5C92</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>33</ID>
+      <Description>"pointerscan result"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"eqgame.exe"+003F94E8</Address>
+      <Offsets>
+        <Offset>27D</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>34</ID>
+      <Description>"pointerscan result"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"eqgame.exe"+0005C1A0</Address>
+      <Offsets>
+        <Offset>27D</Offset>
+        <Offset>40</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>35</ID>
+      <Description>"pointerscan result"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"EQGfx_Dx8.DLL"+0010040C</Address>
+      <Offsets>
+        <Offset>27D</Offset>
+        <Offset>40</Offset>
+        <Offset>1C</Offset>
+        <Offset>4</Offset>
+        <Offset>7C0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>36</ID>
+      <Description>"pointerscan result"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"eqgame.exe"+0010FE70</Address>
+      <Offsets>
+        <Offset>27D</Offset>
+        <Offset>5A4</Offset>
+        <Offset>584</Offset>
+        <Offset>5A8</Offset>
+        <Offset>4E0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>37</ID>
+      <Description>"pointerscan result"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"eqgame.exe"+0020A468</Address>
+      <Offsets>
+        <Offset>27D</Offset>
+        <Offset>504</Offset>
+        <Offset>3C4</Offset>
+        <Offset>4EC</Offset>
+        <Offset>41C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>38</ID>
+      <Description>"pointer"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>eqgame.exe+3F94E8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>39</ID>
+      <Description>"No description"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>064D6C70</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>40</ID>
+      <Description>"No description"</Description>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>064D6C70</Address>
+      <Offsets>
+        <Offset>8CA</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
